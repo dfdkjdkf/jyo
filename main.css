@@ -21,10 +21,10 @@ canvas {
 
 #pl {
   position: fixed;
-  left: 70%;
-  right: 80%;
-  bottom: 40%;
-  top: 80%;
+  left: 90%;
+  right: 10%;
+  bottom: 30%;
+  top: 10%;
   color: #5eff00;
   text-decoration: none;
   font-size: 2rem;
